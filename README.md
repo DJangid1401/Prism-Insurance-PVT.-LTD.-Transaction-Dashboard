@@ -1,4 +1,4 @@
-# 📊 Insurance Transaction Analysis Dashboard | Power BI
+# 📊 Prism Insurance Transaction Analysis Dashboard | Power BI
 📌 Project Overview
 This project presents an end-to-end Insurance Transaction Analysis Dashboard developed using SQL and Power BI for PRISM Insurance Pvt. Ltd.
 The dashboard provides a comprehensive view of premium, coverage, claims, and policy performance, helping stakeholders monitor business health, assess risk exposure, and make data-driven decisions.
